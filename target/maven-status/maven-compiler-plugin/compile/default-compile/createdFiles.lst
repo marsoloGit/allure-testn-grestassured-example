@@ -1,0 +1,11 @@
+ui/pages/HomePage.class
+api/EndPoints.class
+api/Author.class
+utils/PropertiesReader.class
+ui/pages/RegistrationPage.class
+utils/Wait.class
+ui/pages/LoginPage.class
+api/Book.class
+ui/pages/BasePage.class
+api/LibraryApi.class
+api/Genre.class

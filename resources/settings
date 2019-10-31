@@ -1,0 +1,6 @@
+appUrl=https://yandex.ru
+userLogin=my.user12@yandex.ru
+userPassword=myPassw0rd#
+libraryLogin = librarian
+libraryPassword = librarian
+libraryApiBaseUrl = http://www.libraryinformationsystem.org/Services/RestService.svc

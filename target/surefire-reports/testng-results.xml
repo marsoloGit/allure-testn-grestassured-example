@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-31T03:19:31 MSK" name="Surefire suite" finished-at="2019-10-31T03:20:07 MSK" duration-ms="35292">
+    <groups>
+    </groups>
+    <test started-at="2019-10-31T03:19:31 MSK" name="Surefire test" finished-at="2019-10-31T03:20:07 MSK" duration-ms="35292">
+      <class name="tests.LoginTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTests@2234078]" started-at="2019-10-31T03:19:40 MSK" name="setUp" finished-at="2019-10-31T03:19:42 MSK" duration-ms="2095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginWithWrongCredentials()[pri:0, instance:tests.LoginTests@2234078]" started-at="2019-10-31T03:19:42 MSK" name="loginWithWrongCredentials" description="Negative Login Scenario with valid but non existing username." finished-at="2019-10-31T03:19:44 MSK" duration-ms="2588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithWrongCredentials -->
+        <test-method signature="registerUser()[pri:0, instance:tests.LoginTests@2234078]" started-at="2019-10-31T03:19:44 MSK" name="registerUser" description="Register User" finished-at="2019-10-31T03:19:53 MSK" duration-ms="8864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method signature="loginWithValidCredentials()[pri:1, instance:tests.LoginTests@2234078]" started-at="2019-10-31T03:19:53 MSK" name="loginWithValidCredentials" description="Valid Login Scenario with valid username and password." finished-at="2019-10-31T03:20:00 MSK" duration-ms="6797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:tests.LoginTests@2234078]" started-at="2019-10-31T03:20:00 MSK" name="cleanUp" finished-at="2019-10-31T03:20:00 MSK" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- tests.LoginTests -->
+      <class name="tests.LibraryApiTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LibraryApiTests@5c41d037]" started-at="2019-10-31T03:19:31 MSK" name="setUp" finished-at="2019-10-31T03:19:34 MSK" duration-ms="2886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getBooks()[pri:0, instance:tests.LibraryApiTests@5c41d037]" started-at="2019-10-31T03:19:34 MSK" name="getBooks" description="Retrieves a list of books in the system" finished-at="2019-10-31T03:19:40 MSK" duration-ms="5440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBooks -->
+        <test-method signature="addBook()[pri:1, instance:tests.LibraryApiTests@5c41d037]" started-at="2019-10-31T03:19:53 MSK" name="addBook" description="Adds a new book to the system" finished-at="2019-10-31T03:19:53 MSK" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="updateBook()[pri:2, instance:tests.LibraryApiTests@5c41d037]" started-at="2019-10-31T03:20:00 MSK" name="updateBook" description="Updates an existing book in the system" finished-at="2019-10-31T03:20:06 MSK" duration-ms="5358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBook -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:tests.LibraryApiTests@5c41d037]" started-at="2019-10-31T03:20:06 MSK" name="cleanUp" finished-at="2019-10-31T03:20:07 MSK" duration-ms="1049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- tests.LibraryApiTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
