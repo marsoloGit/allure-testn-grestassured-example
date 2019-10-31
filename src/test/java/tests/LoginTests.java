@@ -1,9 +1,6 @@
 package tests;
 
-import io.qameta.allure.Description;
-import io.qameta.allure.Severity;
-import io.qameta.allure.SeverityLevel;
-import io.qameta.allure.Step;
+import io.qameta.allure.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
@@ -15,7 +12,7 @@ import ui.pages.RegistrationPage;
 
 import java.util.Date;
 
-
+@Feature("Yandex Registration/Login UI tests")
 @Severity(SeverityLevel.BLOCKER)
 public class LoginTests extends BasicTest {
 	private WebDriver driver;

@@ -3,6 +3,7 @@ package tests;
 import api.Author;
 import api.Book;
 import api.LibraryApi;
+import io.qameta.allure.Feature;
 import io.qameta.allure.Step;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
@@ -12,6 +13,7 @@ import org.testng.annotations.Test;
 import static org.hamcrest.CoreMatchers.hasItems;
 import static org.hamcrest.CoreMatchers.not;
 
+@Feature("Library API tests")
 public class LibraryApiTests extends BasicTest {
 
     LibraryApi api;

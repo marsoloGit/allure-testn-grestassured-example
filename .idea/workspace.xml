@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99b49465-4ed1-49a6-a5ae-ea3c6cc681f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/allure.results.directory" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/2aeda8e8-8e8a-49cd-9a70-9399b3a1ba0c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/3929e03c-7044-4dcd-a228-6e5157b0e4dd-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/9540f3ee-866b-43ed-998e-87e340bd535a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/957975b1-12a0-49be-91ad-d6d541255f7b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/allure.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/allure.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/c25daeb5-7152-4935-b278-a13aa160612c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/d187bfe2-a76e-4d63-8285-592b5d64f7d1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/dc580cdd-b319-453f-a868-e2e4a31dc64d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/e018eb61-0c76-4539-b5f6-c36f906e29b7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/e74829e8-936a-44fb-a910-a2e212bafbb6-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/ed87f04e-4a35-470e-94d0-3c95a30cbb2e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-10-31T03-04-12_511.dumpstream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-tests.LibraryApiTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-tests.LibraryApiTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-tests.LoginTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-tests.LoginTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/LibraryApiTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/LibraryApiTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,7 +27,7 @@
         <counts>
           <entry key="Book" value="3" />
           <entry key="dummy" value="27" />
-          <entry key="java" value="7213" />
+          <entry key="java" value="7215" />
           <entry key="settings" value="150" />
           <entry key="txt" value="10" />
           <entry key="xml" value="27" />
@@ -60,7 +35,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7213" />
+          <entry key="JAVA" value="7215" />
           <entry key="JSON" value="3" />
           <entry key="PLAIN_TEXT" value="37" />
           <entry key="Properties" value="150" />
@@ -77,7 +52,7 @@
           <entry key="environment" value="1" />
           <entry key="gitattributes" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="112" />
+          <entry key="java" value="113" />
           <entry key="json" value="11" />
           <entry key="properties" value="2" />
           <entry key="settings" value="5" />
@@ -89,7 +64,7 @@
         <counts>
           <entry key="CLASS" value="12" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="112" />
+          <entry key="JAVA" value="113" />
           <entry key="JSON" value="14" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="12" />
@@ -114,6 +89,18 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/LibraryApiTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ui/pages/BasePage.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -126,7 +113,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/LoginTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
@@ -261,7 +248,6 @@
         <option value="$PROJECT_DIR$/src/main/java/api/LibraryApi.java" />
         <option value="$PROJECT_DIR$/resources/allure.results.directory" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/LibraryApiTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/ui/pages/Registration.java" />
         <option value="$PROJECT_DIR$/src/main/java/ui/pages/RegistrationPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/LoginTests.java" />
@@ -269,6 +255,7 @@
         <option value="$PROJECT_DIR$/src/test/java/tests/BasicTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ui/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/ui/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/LibraryApiTests.java" />
       </list>
     </option>
   </component>
@@ -382,7 +369,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572482385544" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572483093899" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
@@ -613,6 +600,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="815" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -996,26 +984,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/BasicTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/LibraryApiTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/allure.results.directory">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1030,6 +998,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/BasicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/LibraryApiTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
